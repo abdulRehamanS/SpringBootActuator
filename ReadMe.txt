@@ -12,3 +12,5 @@ Spring boot actuator
 --> it will give info about the application
 
 --> /health  gives health status is up or not
+
+/shutdown is post Request mapping , we have to call it using postman app
